@@ -63,5 +63,5 @@ Paso 4: ✅ ¡Disfruta de mejor rendimiento y comodidad!
 
 <p align="center">
   <strong>Hecho con ❤️ para la comunidad</strong><br>
-  ⭐ Si te sirve, ¡no olvides dejar tu estrella! ⭐
+  ⭐ Si te sirve, ¡no olvides dejar tu comentario positivo! ⭐
 </p>
