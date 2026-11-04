@@ -1,6 +1,6 @@
 # Auto-click-Macro
 <p align="center">
-  <img src="MacroMaxFps.png" alt="Vista previa del AutoClicker" width="650">
+  <img src="MacroMaxFps.PNG" alt="Vista previa del AutoClicker" width="650">
 </p>
 ⚡ MACRO — AUTOCLICKER V2.5
 🚀 Rápido, ligero y sin complicaciones — mejora tu rendimiento al instante
